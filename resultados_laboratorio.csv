@@ -1,0 +1,9 @@
+Algorithm,Size (N),Operations,Time (ms)
+Algorithm B,100,100,0
+Algorithm A,100,4950,0
+Algorithm B,1000,1000,0
+Algorithm A,1000,499500,1
+Algorithm B,10000,10000,0
+Algorithm A,10000,49995000,6
+Algorithm B,100000,100000,0
+Algorithm A,100000,4999950000,597
